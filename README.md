@@ -4,7 +4,7 @@ UI automation tests for https://www.regionaalhaigla.ee
 
 # Installation
 
-Before running test use should install NodeJS at your environment: https://nodejs.org/en/download/
+Before running tests you should install NodeJS at your environment: https://nodejs.org/en/download/
 Go to the root and perform command: 
 npm install (Will install all components based on package.json file)
 
